@@ -1,1 +1,1 @@
-[📄 View the PDF](README.pdf)
+[Click for README!!](README.pdf)
